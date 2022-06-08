@@ -1,5 +1,5 @@
 # google-techwriting-rus
-Вольный перевод Курса для технических писателей от Google ((ссылка на оригинал)[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjq0aGMzZn4AhXph_0HHcvWCnkQFnoECAcQAQ&url=https%3A%2F%2Fdevelopers.google.com%2Ftech-writing&usg=AOvVaw1MuqF__vFEE8W6XQRexhLL])
+Вольный перевод Курса для технических писателей от Google (ссылка на оригинал)[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjq0aGMzZn4AhXph_0HHcvWCnkQFnoECAcQAQ&url=https%3A%2F%2Fdevelopers.google.com%2Ftech-writing&usg=AOvVaw1MuqF__vFEE8W6XQRexhLL]
 
 Также здесь будет храниться и пополняться глоссарий английских слов, которые будут встречаться по мере работы техписом в иностранной компании. 
 
