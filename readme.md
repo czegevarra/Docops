@@ -1,10 +1,10 @@
-# Вольный перевод Курса для технических писателей от Google  
-[Тут ссылка на оригинал.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjq0aGMzZn4AhXph_0HHcvWCnkQFnoECAcQAQ&url=https%3A%2F%2Fdevelopers.google.com%2Ftech-writing&usg=AOvVaw1MuqF__vFEE8W6XQRexhLL)
+<h1 align="center">Привет! Это Николай<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Пишу техническую доку, перевожу <a>курс Google для технических писателей<a href=https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjq0aGMzZn4AhXph_0HHcvWCnkQFnoECAcQAQ&url=https%3A%2F%2Fdevelopers.google.com%2Ftech-writing&usg=AOvVaw1MuqF__vFEE8W6XQRexhLL></a>, составляю словарик полезных слов</h3>  
 
-Перевод в процессе. Пока не решил, как именно реализовать отображение переведенных материалов. 
+## Статус перевода:  
+Перевод в процессе. Пока не решил, как именно реализовать отображение переведенных материалов.
 
-Также здесь будет храниться и пополняться глоссарий английских слов, которые будут встречаться по мере работы техписом в иностранной компании. 
-
+## Глоссарий:  
 ability - способность  
 absenteeism - невыход на работу  
 accessible - доступная  
@@ -19,7 +19,7 @@ bandwidth - пропускная способность
 bottleneck - бутылочное горлышко  
 bribery - взяточничество  
 BYOD - bring your own device  
-Clarity - ясность  
+clarity - ясность  
 code of conduct - нормы поведения  
 collaborate - сотрудничать  
 colon - двоеточие  
@@ -39,7 +39,7 @@ define - определить
 demotion - понижение в должности  
 determine - определять  
 disclosure policy - политика  раскрытия информации  
-Distinguish - выделить  
+distinguish - выделить  
 distinguish - различать   
 draw a line under a sprint - подвести итоги спринта  
 engaging - вовлеченный, интересный  
@@ -100,7 +100,7 @@ though - несмотря на, хотя
 to ease - облегчать  
 To heap - наваливать, нагружать  
 to list - показывать в списке  
-To pledge - закладывать  
+to pledge - закладывать  
 to shape - сформировать  
 to state - закрепить, установить    
 topics - темы  
