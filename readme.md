@@ -19,6 +19,9 @@
     - [Начинать с:](#начинать-с)
     - [Действие + место](#действие--место)
   - [Предлоги](#предлоги)
+    - [ON](#on)
+    - [A/The](#athe)
+    - [Множественные артикли.](#множественные-артикли)
   - [Активный залог](#активный-залог)
   - [Вопросы](#вопросы)
 
@@ -38,6 +41,9 @@
 * База знаний Моториной
 * Редполитика от Тани Фокиной
 * Редполитка от Ланы
+* https://polaris.shopify.com/content/help-documentation#navigation 
+* https://developers.google.com/style/text-formatting
+* https://www.coursera.org/learn/sciwrite
 
 ## Каналы в Telegram
 
@@ -202,11 +208,13 @@
 |within|в пределах|
 
 ## Сущности
-Раздел|Section, item, partition
-Настройки|Settings
-Настройка|Setting, можно и parameter
-Выпадающий список|select from the drop-down list
-Буфер обмена| the clipboard
+|Слово|Перевод|
+|-----|-------|
+|Раздел|Section, item, partition|
+|Настройки|Settings|
+|Настройка|Setting, можно и parameter|
+|Выпадающий список|select from the drop-down list|
+|Буфер обмена| the clipboard|
 
 
 ## Действия
@@ -268,20 +276,18 @@
 
 |Фраза|Перевод|
 |-----|-------|
-Много и|To add a ruler, click Ruler and then Add and specify|  
-That можно убирать|click on the part of the 3D model (that) you want to hide|  
-Повтор слов|Click Apply to save (не apply, чтобы избежать повтора)|  
-То есть|that is, …|  
-При этом| было “click Close, при этом(?) all the objects will be removed”
-Стало. “...click Close.”|  
-Вызовите контекстное меню в окне|right-click in any place of the 3D scene|  
-Все, каждый|every/each object, но all objects|  
-В открывшемся окне|click Link object, select the object in the opened window, and then click Close. Но тут: To add an attribute, click Add attribute. In the (opened)можно без  Attributes window specify the attribute’s name and value.|
+|Много и|To add a ruler, click Ruler and then Add and specify|
+|That можно убирать|click on the part of the 3D model (that) you want to hide|
+|Повтор слов|Click Apply to save (не apply, чтобы избежать повтора)|  
+|То есть|that is, …|
+|Вызовите контекстное меню в окне|right-click in any place of the 3D scene|
+|Все, каждый|every/each object, но all objects|  
+|В открывшемся окне|click Link object, select the object in the opened window, and then click Close. Но тут: To add an attribute, click Add attribute. In the (opened)можно без  Attributes window specify the attribute’s name and value.|
 Располагаются|On the first level of the tree are objects. Located можно опустить.|  
-Которые|Classes inherit properties from interfaces (без which в этом месте) added to them|  
-Так же, в таком же порядке|The properties in an object are displayed in the same order as in the class of the object.|  
-Порядок, позиция, положение|По идее у одного свойства не может быть order, а может быть position например. То есть: the order of properties, но the position of a property или the property position|  
-Тоже изменится|If a class changes, the objects based on that class change as well. If a class changes, so do the objects based on that class|  
+|Которые|Classes inherit properties from interfaces (без which в этом месте) added to them|  
+|Так же, в таком же порядке|The properties in an object are displayed in the same order as in the class of the object.|  
+|Порядок, позиция, положение|По идее у одного свойства не может быть order, а может быть position например. То есть: the order of properties, но the position of a property или the property position|  
+|Тоже изменится|If a class changes, the objects based on that class change as well. If a class changes, so do the objects based on that class|  
 
 ## Фразы
 
@@ -329,23 +335,22 @@ Click on a document to open its location.
 
 ## Предлоги
 
-ON:
-On the tab  
-click (on) the corresponding card|on можно опустить
+### ON
+* On the tab  
+* click (on) the corresponding card: on можно опустить
 
-A/The  
-Choose A type of user to login with|не какой-то конкретный тип, а вообще  
-Click the Forward and Back|один the, т.к. And объединяет кнопки  
-the New project window|всегда перед названием окна  
-The mouse cursor|один в своём роде.  
-Множественные артикли. Ставим один, если перечисление однотипное: i saw a dog, cat, bear, но i saw a gog, cats, and a bear.  
-Click the Project setting access setting, но Click Project setting access, ибо нет существительного.  
+### A/The  
+* Choose A type of user to login with: не какой-то конкретный тип, а вообще  
+* Click the Forward and Back: один the, т.к. And объединяет кнопки  
+* the New project window: всегда перед названием окна  
+* The mouse cursor: один в своём роде.  
 
-Можно без “An”, если говорим в общем “An interfaces store properties and deliver them to classes”  
-
-To open the document location (the, т.к. Относится к location, а не к document. Т.к. Document это определение к локейшн)  
-
-Не пишем в заголовках: “Documents tab”.  
+### Множественные артикли. 
+* Ставим один, если перечисление однотипное: i saw a dog, cat, bear, но i saw a dog, cats, and a bear.  
+* Click the Project setting access setting, но Click Project setting access, ибо нет существительного.  
+* Можно без “An”, если говорим в общем “An interfaces store properties and deliver them to classes”  
+* To open the document location (the, т.к. Относится к location, а не к document. Т.к. Document это определение к локейшн)  
+* Не пишем в заголовках: “Documents tab”.  
 
 Multiple the: https://english.stackexchange.com/questions/9487/is-it-necessary-to-use-the-multiple-times
 
@@ -480,7 +485,7 @@ Although not a requirement, we recommend putting the word following into the int
 Properties can be of different types.
 If the subject on which you are writing is of slight extent
 
-We hope to have paid  off the mortgage on our house by the time we retire. (Future perfect без will?)
+We hope to have paid off the mortgage on our house by the time we retire. (Future perfect без will?)
 I would love to have met my paternal grandfather, but he died before I was born.
 How frustrating for them to have lost the match in the last minute! They must have been gutted.
 
@@ -519,9 +524,3 @@ Active, Arch, Draft
 - Создайте первого пользователя |Add THE first user
 +Подпись к выпадающему списку, где можно выбрать нескольких пользователей
 Select users+ 
-
-Полезные материалы
-
-https://polaris.shopify.com/content/help-documentation#navigation 
-https://developers.google.com/style/text-formatting
-https://www.coursera.org/learn/sciwrite
