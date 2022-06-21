@@ -4,17 +4,25 @@
 
 >В данный момент я перевожу на русский язык курс для технических писателей от Google. Пока не решил, как именно реализовать отображение переведенных материалов.
 
-# Оглавление[toc]:
-* [Полезные ресурсы](#resources)
-  * [Каналы в Telegram](#tg_channel) 
-  * [Книги](#books)
-* [Глоссарий](#glossary)
-  * [Сущности](#things)
-  * [Действия](#actions)
-  * [Фразы](#phrases)
-* [Правила]()
+# Оглавление:
+- [Оглавление:](#оглавление)
+  - [Полезные ресуры:](#полезные-ресуры)
+  - [Каналы в Telegram](#каналы-в-telegram)
+  - [Книги](#книги)
+  - [Глоссарий](#глоссарий)
+  - [Сущности](#сущности)
+  - [Действия](#действия)
+  - [Слова, обороты](#слова-обороты)
+  - [Фразы](#фразы)
+  - [Запятые](#запятые)
+    - [Запятая перед and.](#запятая-перед-and)
+    - [Начинать с:](#начинать-с)
+    - [Действие + место](#действие--место)
+  - [Предлоги](#предлоги)
+  - [Активный залог](#активный-залог)
+  - [Вопросы](#вопросы)
 
-## Полезные ресуры[#resources]:
+## Полезные ресуры:
 
 * [Microsoft styleguide](https://docs.microsoft.com/en-us/style-guide/welcome/)
  и [Словарь терминов](https://www.microsoft.com/ru-ru/language/Search?&searchTerm=notify&langID=635&Source=true&productid=0)
@@ -31,8 +39,9 @@
 * Редполитика от Тани Фокиной
 * Редполитка от Ланы
 
-## Каналы в Telegram[#tg_channel]
-* [London is a capital](https://t.me/londonisacapital) 
+## Каналы в Telegram
+
+* [@londonisacapital](https://t.me/londonisacapital) 
 * [@technicalwriters](t.me/technicalwriters)
 * [@ilyahov_smotrit](t.me/@ilyahov_smotrit)
 * [@txtin](t.me/txtin)
@@ -45,12 +54,12 @@
 * [@glazslov](t.me/glazslov)
 * [@ultimatewriting](t.me/ultimatewriting)
 
-## Книги[#books]
+## Книги
 
 * Этой кнопке нужен текст
 * Как купить слона
 
-## Глоссарий[#glossary]  
+## Глоссарий
 
 |Слово|Перевод|
 |-----|-------|
@@ -192,7 +201,7 @@
 |where it's relevant|где это необходимо|  
 |within|в пределах|
 
-## Сущности (#things)
+## Сущности
 Раздел|Section, item, partition
 Настройки|Settings
 Настройка|Setting, можно и parameter
@@ -200,38 +209,42 @@
 Буфер обмена| the clipboard
 
 
-## Действия (#actions)
-Чтобы создать метку:|To create a markup:  
-Кликните в любом месте сцены/окна|Click in any place of the 3D scene  
-Снимите выбор|clear  
-Вызовите контекстное меню|Right-click on the column heading and select or clear the desired item or items.  
-Зажмите шифт|hold down the Shift key  
-С зажатой левой кнопкой мыши|with the left mouse button held down  
-Назначить роль|assign  
-Введите, укажите|enter, type или specify (Specify admin in the Name field, and QWE in the Pass field)  
-Введите в поле|Enter your Login and Password (Когда очевидно). Или Type your login into the Login field  
-Отметьте чекбокс|Select the Remember me checkbox.  
-Нажмите клавишу|Да: press Enter Нет: press the Enter key  
-Нажмите Войти|Click Login  
-Выберите пункт контекстного меню|Select  
-Удалите|Delete если навсегда) и Remove|если убираем роль у пользователя.  
-Выберите|Select roles (не choose)  
-Выполните следующее|Take the following steps to (Do the following)  
-Войти с помощью|to login with  
-Наведите курсор на|point to (не hover)  
-Наведите и подождите|hold the pointer over  
-Нажмите снова|click again on the button  
-Перетащите|Drag the USER to the Authorized box. To move the section box, drag it by colored coordinate arrows.  
+## Действия
+|Фраза|Перевод|
+|-----|-------|
+|Чтобы создать метку|To create a markup|  
+|Кликните в любом месте сцены/окна|Click in any place of the 3D scene|  
+|Снимите выбор|clear|  
+|Вызовите контекстное меню|Right-click on the column heading and select or clear the desired item or items.|  
+|Зажмите шифт|hold down the Shift key|  
+|С зажатой левой кнопкой мыши|with the left mouse button held down|  
+|Назначить роль|assign|  
+|Введите, укажите|enter, type или specify (Specify admin in the Name field, and QWE in the Pass field)|  
+|Введите в поле|Enter your Login and Password (Когда очевидно). Или Type your login into the Login field|  
+|Отметьте чекбокс|Select the Remember me checkbox.|  
+|Нажмите клавишу|Да: press Enter Нет: press the Enter key|  
+|Нажмите Войти|Click Login|  
+|Выберите пункт контекстного меню|Select|  
+|Удалите|Delete если навсегда) и Remove|если убираем роль у пользователя.|  
+|Выберите|Select roles (не choose)|  
+|Выполните следующее|Take the following steps to (Do the following)|  
+|Войти с помощью|to login with|  
+|Наведите курсор на|point to (не hover)|  
+|Наведите и подождите|hold the pointer over|  
+|Нажмите снова|click again on the button|  
+|Перетащите|Drag the USER to the Authorized box. To move the section box, drag it by colored coordinate arrows.|  
 
-## Слова, обороты [#phrases]
+## Слова, обороты
 
-If you have never taken any courses, this is perfect|если вы никогда прежде не проходили курсы...  
-can take a long time|может быть долгим, долго  
-По завершении, по окончании|At the end of the parsing, a cube icon will appear in the corner of the file.  
-Удобны для|They are handy for tracking your site progress and early identification of issues.  
-Который находится|that is in/ located  
-Один или несколько|one or several/more  
-Выбрать несколько объектов|select multiple objects  
+|Фраза|Перевод|
+|-----|-------|
+|If you have never taken any courses, this is perfect|если вы никогда прежде не проходили курсы...|  
+|can take a long time|может быть долгим, долго|  
+|По завершении, по окончании|At the end of the parsing, a cube icon will appear in the corner of the file.|  
+|Удобны для|They are handy for tracking your site progress and early| identification of issues.|  
+|Который находится|that is in/ located|  
+|Один или несколько|one or several/more|  
+|Выбрать несколько объектов|select multiple objects|  
  
 “And” так же можно писать как “as well as”  
 Так же как|“the same way as” “just like the marks”  
@@ -252,23 +265,26 @@ can take a long time|может быть долгим, долго
     Не “To unselect anything on the 3D scene,such as 3D objects, ...”  
     Да “To unselect 3D objects, markups, viewpoints, or any other instance... ”  
 На месте курсора появится навигационный шар|The mouse cursor will change into  
- 
-Много и|To add a ruler, click Ruler and then Add and specify  
-That можно убирать|click on the part of the 3D model (that) you want to hide  
-Повтор слов|Click Apply to save (не apply, чтобы избежать повтора)  
-То есть|that is, …  
+
+|Фраза|Перевод|
+|-----|-------|
+Много и|To add a ruler, click Ruler and then Add and specify|  
+That можно убирать|click on the part of the 3D model (that) you want to hide|  
+Повтор слов|Click Apply to save (не apply, чтобы избежать повтора)|  
+То есть|that is, …|  
 При этом| было “click Close, при этом(?) all the objects will be removed”
-Стало. “...click Close.”  
-Вызовите контекстное меню в окне|right-click in any place of the 3D scene  
-Все, каждый|every/each object, но all objects  
-В открывшемся окне|click Link object, select the object in the opened window, and then click Close. Но тут: To add an attribute, click Add attribute. In the (opened)можно без  Attributes window specify the attribute’s name and value.
-Располагаются|On the first level of the tree are objects. Located можно опустить.  
-Которые|Classes inherit properties from interfaces (без which в этом месте) added to them  
-Так же, в таком же порядке|The properties in an object are displayed in the same order as in the class of the object.  
-Порядок, позиция, положение|По идее у одного свойства не может быть order, а может быть position например. То есть: the order of properties, но the position of a property или the property position  
-Тоже изменится|If a class changes, the objects based on that class change as well. If a class changes, so do the objects based on that class  
+Стало. “...click Close.”|  
+Вызовите контекстное меню в окне|right-click in any place of the 3D scene|  
+Все, каждый|every/each object, но all objects|  
+В открывшемся окне|click Link object, select the object in the opened window, and then click Close. Но тут: To add an attribute, click Add attribute. In the (opened)можно без  Attributes window specify the attribute’s name and value.|
+Располагаются|On the first level of the tree are objects. Located можно опустить.|  
+Которые|Classes inherit properties from interfaces (без which в этом месте) added to them|  
+Так же, в таком же порядке|The properties in an object are displayed in the same order as in the class of the object.|  
+Порядок, позиция, положение|По идее у одного свойства не может быть order, а может быть position например. То есть: the order of properties, но the position of a property или the property position|  
+Тоже изменится|If a class changes, the objects based on that class change as well. If a class changes, so do the objects based on that class|  
 
 ## Фразы
+
 Нет  
 Passive Voice: The following search and filter buttons are located on the top of the Object window:
 Да   
