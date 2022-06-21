@@ -15,13 +15,12 @@
   - [Слова, обороты](#слова-обороты)
   - [Фразы](#фразы)
   - [Запятые](#запятые)
-    - [Запятая перед and.](#запятая-перед-and)
     - [Начинать с:](#начинать-с)
     - [Действие + место](#действие--место)
   - [Предлоги](#предлоги)
     - [ON](#on)
     - [A/The](#athe)
-    - [Множественные артикли.](#множественные-артикли)
+    - [Множественные артикли](#множественные-артикли)
   - [Активный залог](#активный-залог)
   - [Вопросы](#вопросы)
 
@@ -253,29 +252,11 @@
 |Который находится|that is in/ located|  
 |Один или несколько|one or several/more|  
 |Выбрать несколько объектов|select multiple objects|  
- 
-“And” так же можно писать как “as well as”  
-Так же как|“the same way as” “just like the marks”  
-
-Установлен На компьютер|installed to the computer  
-Переключаться между ними с помощью кнопок|you can navigate through by clicking the Back and Next buttons.  
-На любом шаге (установки)|at any step  
-И записал его содержание|Made a note of its contents  
-В предыдущем примере|In the preceding example,  
-  
-
-Чтобы не|so that you don't have to  
-— откроется страница/окно 123|the 123 page/window opens  
-При необходимости|When needed  
-
-Только|Only. Можно убирать без потери смысла You can enable this mode (only) if at least   
-Например|“such as” или “For example,”. При перечислении можно и без него:  
-    Не “To unselect anything on the 3D scene,such as 3D objects, ...”  
-    Да “To unselect 3D objects, markups, viewpoints, or any other instance... ”  
-На месте курсора появится навигационный шар|The mouse cursor will change into  
-
-|Фраза|Перевод|
-|-----|-------|
+|Установлен На компьютер|installed to the computer|  
+|Переключаться между ними с помощью кнопок|you can navigate through by clicking the Back and Next buttons.|  
+|На любом шаге (установки)|at any step|  
+|И записал его содержание|Made a note of its contents|  
+|В предыдущем примере|In the preceding example|  
 |Много и|To add a ruler, click Ruler and then Add and specify|
 |That можно убирать|click on the part of the 3D model (that) you want to hide|
 |Повтор слов|Click Apply to save (не apply, чтобы избежать повтора)|  
@@ -288,6 +269,18 @@
 |Так же, в таком же порядке|The properties in an object are displayed in the same order as in the class of the object.|  
 |Порядок, позиция, положение|По идее у одного свойства не может быть order, а может быть position например. То есть: the order of properties, но the position of a property или the property position|  
 |Тоже изменится|If a class changes, the objects based on that class change as well. If a class changes, so do the objects based on that class|  
+|На месте курсора появится навигационный шар|The mouse cursor will change into|
+|Откроется страница/окно 123|the 123 page/window opens|
+ |Так же как|the same way as / just like the marks|  
+|Чтобы не|so that you don't have to|  
+|При необходимости|When needed|  
+
+* Только / Only. Можно убирать без потери смысла:  
+  ```You can enable this mode (only) if at least```   
+* Such as или For example. При перечислении можно и без него:  
+    ```Не “To unselect anything on the 3D scene,such as 3D objects, ...”```  
+    ```Да “To unselect 3D objects, markups, viewpoints, or any other instance... ”```    
+* And = as well as 
 
 ## Фразы
 
@@ -303,21 +296,20 @@ Select one or more structure elements in the opened Structures window, to show t
 In the opened..., select... to show…
 
 ## Запятые 
-https://skyeng.ru/articles/10-pravil-upotrebleniya-zapyatoj-v-anglijskom/  
+[Статья в Skyeng](https://skyeng.ru/articles/10-pravil-upotrebleniya-zapyatoj-v-anglijskom/)  
 
-После To… + действие: To open the login page, click Open  
-НО click open to open the login page.
+|Правило|Пример|
+|-------|------|
+|После To… + действие|To open the login page, click Open  
+НО click open to open the login page.|
+|После места + действие|In the opened Attributes window, specify the attribute’s|  
+|Кликаем на табе|To remove the filter, on the filter tab, click Remove.|  
+|Удаляем фильтр с табы|To remove the filter on the filter tab, click Remove.|   
 
-После места + действие: In the opened Attributes window, specify the attribute’s  
-Кликаем на табе|To remove the filter, on the filter tab, click Remove.  
-Удаляем фильтр с табы|To remove the filter on the filter tab, click Remove.   
-
-Перед Depending не ставим, если информация важная:  
-The points turn purple or red__depending on the calculation result.  
-
-### Запятая перед and.  
-Как в русском языке: ставим если присоединяет самостоятельное, если and повторяется два и более раз в перечислении.
-Specify a name and description, and then choose a type of the property.
+* Перед Depending не ставим, если информация важная:  
+```The points turn purple or red__depending on the calculation result.```
+* Запятая перед and: как в русском языке - ставим если присоединяет самостоятельное, если and повторяется два и более раз в перечислении: 
+```Specify a name and description, and then choose a type of the property.```
 
 ### Начинать с:  
 
@@ -345,7 +337,7 @@ Click on a document to open its location.
 * the New project window: всегда перед названием окна  
 * The mouse cursor: один в своём роде.  
 
-### Множественные артикли. 
+### Множественные артикли
 * Ставим один, если перечисление однотипное: i saw a dog, cat, bear, но i saw a dog, cats, and a bear.  
 * Click the Project setting access setting, но Click Project setting access, ибо нет существительного.  
 * Можно без “An”, если говорим в общем “An interfaces store properties and deliver them to classes”  
