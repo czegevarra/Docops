@@ -4,7 +4,7 @@
 
 Полезные ресуры:
 
-* [London is a capital](https://t.me/londonisacapital) - TG-канал для русскоговорящих техписателей, которые пишут/учатся писать на английском. 
+* [London is a capital](https://t.me/londonisacapital)|TG-канал для русскоговорящих техписателей, которые пишут/учатся писать на английском. 
 * [Microsoft styleguide](https://docs.microsoft.com/en-us/style-guide/welcome/)
  и [Словарь терминов](https://www.microsoft.com/ru-ru/language/Search?&searchTerm=notify&langID=635&Source=true&productid=0)
 * [Google styleguide](https://developers.google.com/style/)
@@ -74,8 +74,8 @@ T writer
 |ambiguous|двусмысленный|
 |approach|подход|
 |appropriate|подходящий|
-|brandwidth|пропускная способность|
 |bottleneck|бутылочное горлышко|
+|brandwidth|пропускная способность|
 |bribery|взяточничество|
 |BYOD|bring your own device|
 |clarity|ясность|
@@ -83,13 +83,17 @@ T writer
 |collaborate|сотрудничество|
 |colon|двоеточие|
 |commitment|обязательство|
+|complaint|жалоба|
 |comply|исполнять|
 |comprehension|понимание/постижение|
 |comprising|включая|
 |concern|беспокойство|
-|conduct|руководить|
 |concider|считать|
+|concurrency|совпадение, согласие|
+|conduct|руководить|
+|constitutes|составляет|
 |contrains/restrictions|ограничения|
+|convey|передавать, сообщать|
 |corresponding|соответствующий|
 |critical|критический|
 |customer-facing doc|адресованная пользователю дока|
@@ -97,14 +101,19 @@ T writer
 |define|определить|
 |demotion|понижение в должности|
 |determine|определять|
+|deviation|отклонение|  
 |disclosure policy|политика раскрытия информации
 |distinguish|выделить/различать| 
 |draw a line under a sprint|подвести итоги спринта|  
+|engagement|встреча, общение|
 |engaging|вовлеченный/интересный|  
 |engineering-adjacent|прилегающий к ...|
 |enhance|улучшить|  
+|ensure|гарантировать|
 |essential|необходимый/незаменимый|  
 |estimate|оценивать|  
+|explicitly|явно|
+|exposed|незащищенный|
 |extensively|широко/экстенсивно|  
 |feasibility|осуществимость|  
 |fiy|for your information|  
@@ -116,8 +125,12 @@ T writer
 |incentive|стимул|  
 |instantly|немедленно|  
 |integrity|честность|  
+|intensity|интенсивность|
 |interacting|взаимодействие|  
 |introduction|вступление|  
+|introspection|самопроверка|
+|labor|труд, работа|
+|likelihood|вероятность|
 |likewise|также|  
 |maintain|поддерживать|    
 |maintance|обслуживание|   
@@ -126,14 +139,18 @@ T writer
 |occur|происходить|  
 |on their own|сами по себе|  
 |otherwise|в противном случае|  
+|outbound|исходящий|
+|outdate|устаревшийSSO|single sign-on|
 |overall|в целом/along/вместе|  
 |parentheses|скобки|  
+|participation|участие|
 |performs|выполняется <кем-то>|  
 |premises|помещения|  
 |prerequisites|предпосылки|  
 |proficiency|умение|  
 |pronouns|местоимения|  
 |proposed|предложенный|  
+|query|запрос|
 |reach out|связаться/"постучаться"|  
 |reduce|уменьшить|  
 |references|отсылки|  
@@ -141,22 +158,30 @@ T writer
 |reliance|доверие|  
 |remainder|остаток (?)|  
 |remediation suggestions|предложения по исправлению|  
+|respectively |соответственно|
 |responsibility|обязанность|  
 |retaliation|возмездие|  
+|retrieval|возвращение, восстановление|
 |revise|пересмотреть|  
 |robustness|прочность|  
 |sagnificant|значительный|  
 |sagnificant|существенный| 
+|solely|исключительно|
 |specific|определенный| 
 |stay in loop|быть в курсе, держать контакт насчет чего-либо|  
+|strive|стремиться|
 |subset|подмножество|  
+|suggest|предложить|
+|survey|опрос|
 |suspect|подозревать|  
 |suspension|приостановка|  
+|tailored|с учетом, адаптировано для ..|
 |tangible|материальный, осязаемый|  
 |tardiness|опоздание|  
 |tempered|закаленный|  
 |though|несмотря на, хотя|  
 |to ease|облегчать|  
+|to have a few things in place|сделать/закончить что-либо|
 |to heap|наваливать, нагружать|  
 |to list|показывать в списке|  
 |to pledge|закладывать|  
@@ -165,13 +190,14 @@ T writer
 |topics|темы|  
 |UAT|user testing interface|  
 |utmost|крайний|  
+|variables|переменные|
 |where it's relevant|где это необходимо|  
-|within|в пределах|  
+|within|в пределах|
 
 ## Слова, обороты 
 
 If you have never taken any courses, this is perfect|если вы никогда прежде не проходили курсы...  
-can take a long time - может быть долгим, долго  
+can take a long time|может быть долгим, долго  
 По завершении, по окончании — At the end of the parsing, a cube icon will appear in the corner of the file.  
 Удобны для — They are handy for tracking your site progress and early identification of issues.  
 Который находится — that is in/ located  
@@ -204,7 +230,7 @@ can take a long time - может быть долгим, долго
 Много и — To add a ruler, click Ruler and then Add and specify  
 That можно убирать — click on the part of the 3D model (that) you want to hide  
 Повтор слов — Click Apply to save (не apply, чтобы избежать повтора)  
-То есть - that is, …  
+То есть|that is, …  
 При этом —  было “click Close, при этом(?) all the objects will be removed”
 Стало. “...click Close.”  
 Вызовите контекстное меню в окне — right-click in any place of the 3D scene  
@@ -451,7 +477,7 @@ How frustrating for them to have lost the match in the last minute! They must ha
 https://www.tamos.com/htmlhelp/nettools/ipblacklist.htm
 Unhide?
 Click , без артикля, а селект с ,the
-Связь с участками - Areas relation(переводит как отношение участков)
+Связь с участками|Areas relation(переводит как отношение участков)
 (In relation to?)
 И условия: Наличие и Отсутствие (Related , Not related)
 
@@ -476,11 +502,11 @@ Use in the middle:
 Invalid value in the ​{{propertyName}}​ property in the(Повтор) {{bimExemplarGlobalId}}​ ​{{bimExemplarTitle}}​ object ​.
 
 + Are you sure you want to delete the «Name» folder? +
-+ Шаблоны обходов - Round(s) templates + Можно и так и так. Если надо подчеркнуть, что несколько, то с s. +
++ Шаблоны обходов|Round(s) templates + Можно и так и так. Если надо подчеркнуть, что несколько, то с s. +
 +
 
 Active, Arch, Draft
-- Создайте первого пользователя  - Add THE first user
+- Создайте первого пользователя |Add THE first user
 +Подпись к выпадающему списку, где можно выбрать нескольких пользователей
 Select users+ 
 
