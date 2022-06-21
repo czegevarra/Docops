@@ -1,67 +1,56 @@
 
-# Привет!  
-## Это записаная книжка с материалами о том, как писать техническую документацию на английском языке.
+### Привет!  
+Это записная книжка с материалами о том, как писать техническую документацию на английском языке.
 
-Полезные ресуры:
+>В данный момент я перевожу на русский язык курс для технических писателей от Google. Пока не решил, как именно реализовать отображение переведенных материалов.
 
-* [London is a capital](https://t.me/londonisacapital)|TG-канал для русскоговорящих техписателей, которые пишут/учатся писать на английском. 
+# Оглавление[toc]:
+* [Полезные ресурсы](#resources)
+  * [Каналы в Telegram](#tg_channel) 
+  * [Книги](#books)
+* [Глоссарий](#glossary)
+  * [Сущности](#things)
+  * [Действия](#actions)
+  * [Фразы](#phrases)
+* [Правила]()
+
+## Полезные ресуры[#resources]:
+
 * [Microsoft styleguide](https://docs.microsoft.com/en-us/style-guide/welcome/)
  и [Словарь терминов](https://www.microsoft.com/ru-ru/language/Search?&searchTerm=notify&langID=635&Source=true&productid=0)
 * [Google styleguide](https://developers.google.com/style/)
 * [Курс по пунктуации](https://www.grammarbook.com/punctuation_rules.asp)
+* [McMillan Dictionary](https://www.macmillandictionary.com/Grammarly)
+* [Поиск по терминам Microsoft](https://www.microsoft.com/en-us/language/Search?&searchTerm=версионирование&langID=635&Source=false&productid=undefined)
+* [Linguee](https://www.linguee.ru/русский-английский/search?source=auto&query=)
+* [Апостроф ‘s](https://grammarway.com/ru/possessive-case)
+* [Редполитики](http://rdpk.ru)
+* Гайд про интерфейсный текст от Райфа
+* Карта компетенций 
+* База знаний Моториной
+* Редполитика от Тани Фокиной
+* Редполитка от Ланы
 
+## Каналы в Telegram[#tg_channel]
+* [London is a capital](https://t.me/londonisacapital) 
+* [@technicalwriters](t.me/technicalwriters)
+* [@ilyahov_smotrit](t.me/@ilyahov_smotrit)
+* [@txtin](t.me/txtin)
+* [@editboat](t.me/editboat)
+* [@negovoribred](t.me/negovoribred)
+* [@redachredach](t.me/redachredach)
+* [@ilyabirman_channel](t.me/ilyabirman_channel)
+* [@ubeditelnoprosim](t.me/ubeditelnoprosim)
+* [@prdlg](t.me/prdlg)
+* [@glazslov](t.me/glazslov)
+* [@ultimatewriting](t.me/ultimatewriting)
 
->В данный момент я перевожу на русский язык курс для технических писателей от Google. Пока не решил, как именно реализовать отображение переведенных материалов.
+## Книги[#books]
 
-## Словари, переводчики
-https://www.macmillandictionary.com/Grammarly
+* Этой кнопке нужен текст
+* Как купить слона
 
-
-https://www.microsoft.com/en-us/language/Search?&searchTerm=версионирование&langID=635&Source=false&productid=undefined
-
-
-https://www.linguee.ru/русский-английский/search?source=auto&query=
-
-Апостроф ‘s: https://grammarway.com/ru/possessive-case
-
-## Misc
-
-UX writer
-
-Книги
-Этой кнопке нужен текст
-Как купать слона
-
-ТГ каналы
-@txtin
-@editboat
-@negovoribred
-@redachredach
-@ilyabirman_channel
-@ubeditelnoprosim
-
-Другое
-Гайд про интерфейсный текст от Райфа
-Карта компетенций 
-База знаний Моториной
-Редполитика от Тани Фокиной
-Редполитка от Ланы
-
-http://rdpk.ru Редполитики
-
-T writer
-
-@technicalwriters
-@ilyahov_smotrit
-
-Про русский язык
-
-ТГ каналы
-@prdlg
-@glazslov
-@ultimatewriting
-
-## Глоссарий:  
+## Глоссарий[#glossary]  
 
 |Слово|Перевод|
 |-----|-------|
@@ -92,6 +81,7 @@ T writer
 |concurrency|совпадение, согласие|
 |conduct|руководить|
 |constitutes|составляет|
+|contain, display|содержит|  
 |contrains/restrictions|ограничения|
 |convey|передавать, сообщать|
 |corresponding|соответствующий|
@@ -105,6 +95,7 @@ T writer
 |disclosure policy|политика раскрытия информации
 |distinguish|выделить/различать| 
 |draw a line under a sprint|подвести итоги спринта|  
+|enabled/turned on|включен| 
 |engagement|встреча, общение|
 |engaging|вовлеченный/интересный|  
 |engineering-adjacent|прилегающий к ...|
@@ -130,12 +121,15 @@ T writer
 |introduction|вступление|  
 |introspection|самопроверка|
 |labor|труд, работа|
+|lets you/enables you to (Не allows)|позволяет|  
 |likelihood|вероятность|
 |likewise|также|  
 |maintain|поддерживать|    
 |maintance|обслуживание|   
 |merit|цена|  
 |minutest|мельчайший|  
+|Namely|а именно|
+|next to/ opposite|рядом с| 
 |occur|происходить|  
 |on their own|сами по себе|  
 |otherwise|в противном случае|  
@@ -150,6 +144,7 @@ T writer
 |proficiency|умение|  
 |pronouns|местоимения|  
 |proposed|предложенный|  
+|provides|обеспечивает|  
 |query|запрос|
 |reach out|связаться/"постучаться"|  
 |reduce|уменьшить|  
@@ -166,6 +161,7 @@ T writer
 |robustness|прочность|  
 |sagnificant|значительный|  
 |sagnificant|существенный| 
+|several/multiple|несколько| 
 |solely|исключительно|
 |specific|определенный| 
 |stay in loop|быть в курсе, держать контакт насчет чего-либо|  
@@ -179,6 +175,7 @@ T writer
 |tangible|материальный, осязаемый|  
 |tardiness|опоздание|  
 |tempered|закаленный|  
+|that said|тем не менее|  
 |though|несмотря на, хотя|  
 |to ease|облегчать|  
 |to have a few things in place|сделать/закончить что-либо|
@@ -189,90 +186,87 @@ T writer
 |to state|закрепить, установить|    
 |topics|темы|  
 |UAT|user testing interface|  
+|using|с помощью|  
 |utmost|крайний|  
 |variables|переменные|
 |where it's relevant|где это необходимо|  
 |within|в пределах|
 
-## Слова, обороты 
+## Сущности (#things)
+Раздел|Section, item, partition
+Настройки|Settings
+Настройка|Setting, можно и parameter
+Выпадающий список|select from the drop-down list
+Буфер обмена| the clipboard
+
+
+## Действия (#actions)
+Чтобы создать метку:|To create a markup:  
+Кликните в любом месте сцены/окна|Click in any place of the 3D scene  
+Снимите выбор|clear  
+Вызовите контекстное меню|Right-click on the column heading and select or clear the desired item or items.  
+Зажмите шифт|hold down the Shift key  
+С зажатой левой кнопкой мыши|with the left mouse button held down  
+Назначить роль|assign  
+Введите, укажите|enter, type или specify (Specify admin in the Name field, and QWE in the Pass field)  
+Введите в поле|Enter your Login and Password (Когда очевидно). Или Type your login into the Login field  
+Отметьте чекбокс|Select the Remember me checkbox.  
+Нажмите клавишу|Да: press Enter Нет: press the Enter key  
+Нажмите Войти|Click Login  
+Выберите пункт контекстного меню|Select  
+Удалите|Delete если навсегда) и Remove|если убираем роль у пользователя.  
+Выберите|Select roles (не choose)  
+Выполните следующее|Take the following steps to (Do the following)  
+Войти с помощью|to login with  
+Наведите курсор на|point to (не hover)  
+Наведите и подождите|hold the pointer over  
+Нажмите снова|click again on the button  
+Перетащите|Drag the USER to the Authorized box. To move the section box, drag it by colored coordinate arrows.  
+
+## Слова, обороты [#phrases]
 
 If you have never taken any courses, this is perfect|если вы никогда прежде не проходили курсы...  
 can take a long time|может быть долгим, долго  
-По завершении, по окончании — At the end of the parsing, a cube icon will appear in the corner of the file.  
-Удобны для — They are handy for tracking your site progress and early identification of issues.  
-Который находится — that is in/ located  
-Один или несколько — one or several/more  
-Выбрать несколько объектов — select multiple objects  
-Рядом с — next to/ opposite  
+По завершении, по окончании|At the end of the parsing, a cube icon will appear in the corner of the file.  
+Удобны для|They are handy for tracking your site progress and early identification of issues.  
+Который находится|that is in/ located  
+Один или несколько|one or several/more  
+Выбрать несколько объектов|select multiple objects  
+ 
 “And” так же можно писать как “as well as”  
-Так же как — “the same way as” “just like the marks”  
-С помощью — using  
-Установлен На компьютер — installed to the computer  
-Переключаться между ними с помощью кнопок — you can navigate through by clicking the Back and Next buttons.  
-На любом шаге (установки) — at any step  
-И записал его содержание — Made a note of its contents  
-В предыдущем примере — In the preceding example,  
-А именно _ Namely  
-Обеспечивает — Provides  
-Тем не менее — That said  
-Чтобы не — so that you don't have to  
-— откроется страница / окно 123 — the 123 page/window opens  
-При необходимости — When needed  
-Позволяет — lets you / enables you to (Не allows)  
-Содержит — Contain, display  
-Включен — enabled / turned on  
-Только — Only. Можно убирать без потери смысла You can enable this mode (only) if at least   
-Например — “such as” или “For example,”. При перечислении можно и без него:  
+Так же как|“the same way as” “just like the marks”  
+
+Установлен На компьютер|installed to the computer  
+Переключаться между ними с помощью кнопок|you can navigate through by clicking the Back and Next buttons.  
+На любом шаге (установки)|at any step  
+И записал его содержание|Made a note of its contents  
+В предыдущем примере|In the preceding example,  
+  
+
+Чтобы не|so that you don't have to  
+— откроется страница/окно 123|the 123 page/window opens  
+При необходимости|When needed  
+
+Только|Only. Можно убирать без потери смысла You can enable this mode (only) if at least   
+Например|“such as” или “For example,”. При перечислении можно и без него:  
     Не “To unselect anything on the 3D scene,such as 3D objects, ...”  
     Да “To unselect 3D objects, markups, viewpoints, or any other instance... ”  
-На месте курсора появится навигационный шар — The mouse cursor will change into  
-Несколько — several / multiple  
-Много и — To add a ruler, click Ruler and then Add and specify  
-That можно убирать — click on the part of the 3D model (that) you want to hide  
-Повтор слов — Click Apply to save (не apply, чтобы избежать повтора)  
+На месте курсора появится навигационный шар|The mouse cursor will change into  
+ 
+Много и|To add a ruler, click Ruler and then Add and specify  
+That можно убирать|click on the part of the 3D model (that) you want to hide  
+Повтор слов|Click Apply to save (не apply, чтобы избежать повтора)  
 То есть|that is, …  
-При этом —  было “click Close, при этом(?) all the objects will be removed”
+При этом| было “click Close, при этом(?) all the objects will be removed”
 Стало. “...click Close.”  
-Вызовите контекстное меню в окне — right-click in any place of the 3D scene  
-Все, каждый — every/each object, но all objects  
-В открывшемся окне — click Link object, select the object in the opened window, and then click Close. Но тут: To add an attribute, click Add attribute. In the (opened)можно без  Attributes window specify the attribute’s name and value.
-Располагаются — On the first level of the tree are objects. Located можно опустить.  
-Которые — Classes inherit properties from interfaces (без which в этом месте) added to them  
-Так же, в таком же порядке — The properties in an object are displayed in the same order as in the class of the object.  
-Порядок, позиция, положение — По идее у одного свойства не может быть order, а может быть position например. То есть: the order of properties, но the position of a property или the property position  
-Тоже изменится — If a class changes, the objects based on that class change as well. If a class changes, so do the objects based on that class  
-
-## Сущности
-Раздел — Section, item, partition
-Настройки — Settings
-Настройка — Setting, можно и parameter
-Выпадающий список — select from the drop-down list
-Буфер обмена —  the clipboard
-
-
-## Действия
-
-Чтобы создать метку: — To create a markup:  
-Кликните в любом месте сцены/окна — Click in any place of the 3D scene  
-Снимите выбор — clear  
-Вызовите контекстное меню — Right-click on the column heading and select or clear the desired item or items.  
-Зажмите шифт — hold down the Shift key  
-С зажатой левой кнопкой мыши — with the left mouse button held down  
-Назначить роль — assign  
-Введите, укажите — enter, type или specify (Specify admin in the Name field, and QWE in the Pass field)  
-Введите в поле — Enter your Login and Password (Когда очевидно). Или Type your login into the Login field  
-Отметьте чекбокс — Select the Remember me checkbox.  
-Нажмите клавишу — Да: press Enter Нет: press the Enter key  
-Нажмите Войти — Click Login  
-Выберите пункт контекстного меню — Select  
-Удалите — Delete если навсегда) и Remove — если убираем роль у пользователя.  
-Выберите — Select roles (не choose)  
-Выполните следующее — Take the following steps to (Do the following)  
-Войти с помощью — to login with  
-Наведите курсор на — point to (не hover)  
-Наведите и подождите — hold the pointer over  
-Нажмите снова — click again on the button  
-Перетащите — Drag the USER to the Authorized box. To move the section box, drag it by colored coordinate arrows.  
+Вызовите контекстное меню в окне|right-click in any place of the 3D scene  
+Все, каждый|every/each object, но all objects  
+В открывшемся окне|click Link object, select the object in the opened window, and then click Close. Но тут: To add an attribute, click Add attribute. In the (opened)можно без  Attributes window specify the attribute’s name and value.
+Располагаются|On the first level of the tree are objects. Located можно опустить.  
+Которые|Classes inherit properties from interfaces (без which в этом месте) added to them  
+Так же, в таком же порядке|The properties in an object are displayed in the same order as in the class of the object.  
+Порядок, позиция, положение|По идее у одного свойства не может быть order, а может быть position например. То есть: the order of properties, но the position of a property или the property position  
+Тоже изменится|If a class changes, the objects based on that class change as well. If a class changes, so do the objects based on that class  
 
 ## Фразы
 Нет  
@@ -293,8 +287,8 @@ https://skyeng.ru/articles/10-pravil-upotrebleniya-zapyatoj-v-anglijskom/
 НО click open to open the login page.
 
 После места + действие: In the opened Attributes window, specify the attribute’s  
-Кликаем на табе — To remove the filter, on the filter tab, click Remove.  
-Удаляем фильтр с табы — To remove the filter on the filter tab, click Remove.   
+Кликаем на табе|To remove the filter, on the filter tab, click Remove.  
+Удаляем фильтр с табы|To remove the filter on the filter tab, click Remove.   
 
 Перед Depending не ставим, если информация важная:  
 The points turn purple or red__depending on the calculation result.  
@@ -321,13 +315,13 @@ Click on a document to open its location.
 
 ON:
 On the tab  
-click (on) the corresponding card — on можно опустить
+click (on) the corresponding card|on можно опустить
 
 A/The  
-Choose A type of user to login with — не какой-то конкретный тип, а вообще  
-Click the Forward and Back — один the, т.к. And объединяет кнопки  
-the New project window — всегда перед названием окна  
-The mouse cursor — один в своём роде.  
+Choose A type of user to login with|не какой-то конкретный тип, а вообще  
+Click the Forward and Back|один the, т.к. And объединяет кнопки  
+the New project window|всегда перед названием окна  
+The mouse cursor|один в своём роде.  
 Множественные артикли. Ставим один, если перечисление однотипное: i saw a dog, cat, bear, но i saw a gog, cats, and a bear.  
 Click the Project setting access setting, но Click Project setting access, ибо нет существительного.  
 
@@ -341,15 +335,15 @@ Multiple the: https://english.stackexchange.com/questions/9487/is-it-necessary-t
 
 ## Активный залог
 
-to save the data that was entered — to save the data that you entered  
+to save the data that was entered|to save the data that you entered  
 Нет  
 For example, a pipe 3D object(of a pipe) can contain radius and length attributes with the values  
 Да  
 For example, for a pipe 3D object, you can add radius and length attributes and specify their values.
 
 Элементы  
-Выпадающий список — drop-down list can contain
-Выпадающий список с полем для ввода — combobox
+Выпадающий список|drop-down list can contain
+Выпадающий список с полем для ввода|combobox
 
  
 Примеры
@@ -364,7 +358,7 @@ You may then use the acronym going forward, as in the following example: If no c
 Setting this flag makes the application run 225-250% faster.  
  
 Разное  
-Повтор — Link objects of the selected 3D objects to other (не object)
+Повтор|Link objects of the selected 3D objects to other (не object)
 
 Google Правила  
 Use present tense    
@@ -465,7 +459,7 @@ Place a comma before which; do not place a comma before that.
 
 Although not a requirement, we recommend putting the word following into the introductory sentence. For example, consider the following introductory sentences:  
 
-Вопросы
+## Вопросы
 
 Properties can be of different types.
 If the subject on which you are writing is of slight extent
