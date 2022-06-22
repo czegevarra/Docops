@@ -6,25 +6,28 @@
 
 # Оглавление:
 - [Оглавление:](#оглавление)
-  - [Полезные ресуры:](#полезные-ресуры)
-  - [Каналы в Telegram](#каналы-в-telegram)
-  - [Книги](#книги)
+  - [Полезные ресуры](#полезные-ресуры)
+    - [Каналы в Telegram](#каналы-в-telegram)
+    - [Книги](#книги)
   - [Глоссарий](#глоссарий)
-  - [Сущности](#сущности)
-  - [Действия](#действия)
-  - [Слова, обороты](#слова-обороты)
-  - [Фразы](#фразы)
+    - [Сущности](#сущности)
+    - [Действия](#действия)
+    - [Слова, обороты](#слова-обороты)
+  - [Как начать предложение:](#как-начать-предложение)
   - [Запятые](#запятые)
-    - [Начинать с:](#начинать-с)
-    - [Действие + место](#действие--место)
   - [Предлоги](#предлоги)
-    - [ON](#on)
+    - [On](#on)
     - [A/The](#athe)
-    - [Множественные артикли](#множественные-артикли)
+  - [Множественные артикли](#множественные-артикли)
   - [Активный залог](#активный-залог)
-  - [Вопросы](#вопросы)
+  - [Примеры](#примеры)
+  - [Разное](#разное)
+  - [Google Правила](#google-правила)
+    - [Reffering to a file](#reffering-to-a-file)
+    - [Which or that](#which-or-that)
+    - [Вопросы](#вопросы)
 
-## Полезные ресуры:
+## Полезные ресуры
 
 * [Microsoft styleguide](https://docs.microsoft.com/en-us/style-guide/welcome/)
  и [Словарь терминов](https://www.microsoft.com/ru-ru/language/Search?&searchTerm=notify&langID=635&Source=true&productid=0)
@@ -44,7 +47,7 @@
 * https://developers.google.com/style/text-formatting
 * https://www.coursera.org/learn/sciwrite
 
-## Каналы в Telegram
+### Каналы в Telegram
 
 * [@londonisacapital](https://t.me/londonisacapital) 
 * [@technicalwriters](t.me/technicalwriters)
@@ -59,7 +62,7 @@
 * [@glazslov](t.me/glazslov)
 * [@ultimatewriting](t.me/ultimatewriting)
 
-## Книги
+### Книги
 
 * Этой кнопке нужен текст
 * Как купить слона
@@ -123,6 +126,7 @@
 |feasibility|осуществимость|  
 |fiy|for your information|  
 |for simplicity's sake|для простоты|    
+|for sure|наверняка|
 |hassle|хлопоты|  
 |hesitate|колебаться|  
 |hoarded|накопленный|  
@@ -142,17 +146,23 @@
 |maintance|обслуживание|   
 |merit|цена|  
 |minutest|мельчайший|  
+|mostly|в основном|
 |Namely|а именно|
 |next to/ opposite|рядом с| 
+|obtain|получать|
 |occur|происходить|  
 |on their own|сами по себе|  
+|once this is done, you can...|как только это закончится, вы можете...|
 |otherwise|в противном случае|  
 |outbound|исходящий|
-|outdate|устаревшийSSO|single sign-on|
+|outdate|устаревший
+|SSO|single sign-on|
 |overall|в целом/along/вместе|  
 |parentheses|скобки|  
 |participation|участие|
 |performs|выполняется <кем-то>|  
+|perhaps|возможно|
+|postpone|откладывать|
 |premises|помещения|  
 |prerequisites|предпосылки|  
 |proficiency|умение|  
@@ -164,6 +174,7 @@
 |reduce|уменьшить|  
 |references|отсылки|  
 |refers to|относится к|   
+|reimbursment|возмещение, компенсация|
 |reliance|доверие|  
 |remainder|остаток (?)|  
 |remediation suggestions|предложения по исправлению|  
@@ -176,6 +187,8 @@
 |sagnificant|значительный|  
 |sagnificant|существенный| 
 |several/multiple|несколько| 
+|smooth|гладко, без проблем|
+|so far so good|пока все ок, ...|
 |solely|исключительно|
 |specific|определенный| 
 |stay in loop|быть в курсе, держать контакт насчет чего-либо|  
@@ -200,13 +213,15 @@
 |to state|закрепить, установить|    
 |topics|темы|  
 |UAT|user testing interface|  
+|unify|унифицировать|
 |using|с помощью|  
 |utmost|крайний|  
 |variables|переменные|
 |where it's relevant|где это необходимо|  
 |within|в пределах|
 
-## Сущности
+
+### Сущности
 |Слово|Перевод|
 |-----|-------|
 |Раздел|Section, item, partition|
@@ -216,7 +231,7 @@
 |Буфер обмена| the clipboard|
 
 
-## Действия
+### Действия
 |Фраза|Перевод|
 |-----|-------|
 |Чтобы создать метку|To create a markup|  
@@ -241,7 +256,7 @@
 |Нажмите снова|click again on the button|  
 |Перетащите|Drag the USER to the Authorized box. To move the section box, drag it by colored coordinate arrows.|  
 
-## Слова, обороты
+### Слова, обороты
 
 |Фраза|Перевод|
 |-----|-------|
@@ -282,20 +297,19 @@
     ```Да “To unselect 3D objects, markups, viewpoints, or any other instance... ”```    
 * And = as well as 
 
-## Фразы
+## Как начать предложение:  
 
-Нет  
-Passive Voice: The following search and filter buttons are located on the top of the Object window:
-Да   
-Active: On the top of the Object window, you can find the following search and filter buttons::
-
-Нет  
-Select one or more structure elements in the opened Structures window, to show the related objects.
-Да  
-Не стоит так отделять эту часть от основной. Правильнее будет сделать так:
-In the opened..., select... to show…
+* Действие + что нужно сделать, когда описываем действие:  
+```To navigate through the viewed sections, use the Back and Forward buttons```  
+* Место:  
+```On the Description tab, you can edit the 3D object's```  
+* Действие + место:   
+```To find a viewpoint by its name, on the top of the window, click Search.```
+* Что нужно сделать + действие, когда описываем интерфейс без сценария:  
+```Click on a document to open its location.```
 
 ## Запятые 
+
 [Статья в Skyeng](https://skyeng.ru/articles/10-pravil-upotrebleniya-zapyatoj-v-anglijskom/)  
 
 |Правило|Пример|
@@ -311,23 +325,9 @@ In the opened..., select... to show…
 * Запятая перед and: как в русском языке - ставим если присоединяет самостоятельное, если and повторяется два и более раз в перечислении: 
 ```Specify a name and description, and then choose a type of the property.```
 
-### Начинать с:  
-
-Действие + что нужно сделать, когда описываем действие:  
-To navigate through the viewed sections, use the Back and Forward buttons  
-
-Место:
-On the Description tab, you can edit the 3D object's
-
-### Действие + место  
-To find a viewpoint by its name, on the top of the window, click Search.  
-
-Что нужно сделать + действие, когда описываем интерфейс без сценария:
-Click on a document to open its location.
-
 ## Предлоги
 
-### ON
+### On
 * On the tab  
 * click (on) the corresponding card: on можно опустить
 
@@ -337,7 +337,7 @@ Click on a document to open its location.
 * the New project window: всегда перед названием окна  
 * The mouse cursor: один в своём роде.  
 
-### Множественные артикли
+## Множественные артикли
 * Ставим один, если перечисление однотипное: i saw a dog, cat, bear, но i saw a dog, cats, and a bear.  
 * Click the Project setting access setting, но Click Project setting access, ибо нет существительного.  
 * Можно без “An”, если говорим в общем “An interfaces store properties and deliver them to classes”  
@@ -348,61 +348,55 @@ Multiple the: https://english.stackexchange.com/questions/9487/is-it-necessary-t
 
 ## Активный залог
 
-to save the data that was entered|to save the data that you entered  
-Нет  
-For example, a pipe 3D object(of a pipe) can contain radius and length attributes with the values  
-Да  
-For example, for a pipe 3D object, you can add radius and length attributes and specify their values.
+|Нет|Да|
+|---|--|
+|to save the data that was entered|to save the data that you entered|  
+|For example, a pipe 3D object(of a pipe) can contain radius and length attributes with the values|For example, for a pipe 3D object, you can add radius and length attributes and specify their values.|
 
-Элементы  
-Выпадающий список|drop-down list can contain
-Выпадающий список с полем для ввода|combobox
-
+## Примеры
+* The submenu lies under the menu.  
+* The definition appears next to the term.  
+* The print function falls within the main routine.  
+*  The program evaluates the addition operation before evaluating the subtraction operation.  
+* The cron daemon executes the script every Tuesday at noon.  
+* Parameters may optionally appear within a URL, after the path.  
+* Protocol Buffers (or protobufs for short)  
+* You may then use the acronym going forward, as in the following example: If no cache entry exists  
+* Setting this flag makes the application run 225-250% faster.  
  
-Примеры
-The submenu lies under the menu.  
-The definition appears next to the term.  
-The print function falls within the main routine.  
-The program evaluates the addition operation before evaluating the subtraction operation.  
-The cron daemon executes the script every Tuesday at noon.  
-Parameters may optionally appear within a URL, after the path.  
-Protocol Buffers (or protobufs for short)  
-You may then use the acronym going forward, as in the following example: If no cache entry exists  
-Setting this flag makes the application run 225-250% faster.  
- 
-Разное  
-Повтор|Link objects of the selected 3D objects to other (не object)
+## Разное  
+* Повтор:  
+  ```Link objects of the selected 3D objects to other (не object)```
 
-Google Правила  
+## Google Правила  
+
 Use present tense    
 In general, use present tense rather than future tense; in particular, try to avoid using will where possible—for example:  
+
 Recommended: Send a query to the service. The server sends an acknowledgment.
+
 Not recommended: Send a query to the service. The server will send an acknowledgment.  
+
 Also avoid the hypothetical future would—for example:  
+
 Recommended: If you send an unsubscribe message, the server removes you from the mailing list.  
+
 Not recommended: You can send an unsubscribe message. The server would then remove you from the mailing list.
 
 !!!НО!!! А здесь мы выделяли один объект, а в результате нашего действия совсем что-то другое случилось. Чтобы это исправить, надо написать примерно так:  
 To select an object, click on its name in the tree. When you select an object, its child objects and related 3D objects are selected as well. 
  
-Reffering to a file
+### Reffering to a file
 
 When referring to a file called example.yaml, call it the example.yaml file and not example.yaml by itself.  
 
 Ambiguous pronoun references (Правильные отсылки к местоимениям)  
 
-Recommended: If you type text in the field, the text doesn't change.  
-Not recommended: If you type text in the field, it doesn't change.  
-
-Recommended: Set this value to true.  
-Not recommended: Set this to true.  
 To avoid ambiguity and clarify meaning in sentences, use optional pronouns, such as that and who.  
 
 Recommended: Make sure that all the files are correct.  
 Not recommended: Make sure all the files are correct.  
- 
-Если да, то не интересна ли вам такая подработка: нужно проверять и исправлять ошибки в английской документации + объяснять, почему именно так правильно писать.
- 
+  
 Уточняйте глаголы, избегая общих
  
 Weak Verb  
@@ -454,7 +448,7 @@ The main thread does not provide a creator stack.
 TensorFlow provides a low-level Python interface to load a saved model.  
 The distribute sharding function assigns keys.  
 
-Which or that  
+### Which or that  
 
 In the United States, reserve which(,) for nonessential subordinate clauses, and use that() for an essential subordinate clause that the sentence can't live without.  
 
@@ -472,7 +466,7 @@ Place a comma before which; do not place a comma before that.
 
 Although not a requirement, we recommend putting the word following into the introductory sentence. For example, consider the following introductory sentences:  
 
-## Вопросы
+### Вопросы
 
 Properties can be of different types.
 If the subject on which you are writing is of slight extent
@@ -487,8 +481,6 @@ Click , без артикля, а селект с ,the
 Связь с участками|Areas relation(переводит как отношение участков)
 (In relation to?)
 И условия: Наличие и Отсутствие (Related , Not related)
-
-
 
 Is it correct to write "Link the related object" or should I use another verb?
 Linking a(the) model element to an(the) object. (процесс в диспетчере задач)
