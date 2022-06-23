@@ -33,7 +33,7 @@ theme = "minimal-master"
 
 [menu]
   [[menu.nav]]
-  name = "news11"
+  name = "news"
   url = "/news/"
   weight = 1
   [[menu.nav]]
