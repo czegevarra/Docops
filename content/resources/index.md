@@ -1,5 +1,5 @@
 ---
-title: "11-12-11 title"
+title: "Resources"
 date: 2001-22-11
 publishdate: 2001-22-19
 lastmod: 2001-22-21

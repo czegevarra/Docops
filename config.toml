@@ -23,7 +23,7 @@ theme = "minimal-master"
   customDateFormat = "Jan 2, 2006"
   customCodeStyle = true
   customBlockquoteStyle = true
-  showPostSummary = true
+  showPostSummary = false
   googleAnalytics = "UA-123456789-1"
   cookieConsent = true
   includeBootstrapJs = true
@@ -33,23 +33,23 @@ theme = "minimal-master"
 
 [menu]
   [[menu.nav]]
-  name = "News"
+  name = "news"
   url = "/news/"
   weight = 1
   [[menu.nav]]
-  name = "Glossary"
+  name = "glossary"
   url = "/glossary/"
   weight = 2
   [[menu.nav]]
-  name = "Resources"
-  url = "/content/res111.md/"
+  name = "resources"
+  url = "/resources"
   weight = 3
    [[menu.nav]]
-  name = "Google TW"
+  name = "google tw"
   url = "/googletw/"
   weight = 4
   [[menu.nav]]
-  name = "Contacts"
+  name = "contacts"
   url = "/contacts/"
   weight = 5
 
