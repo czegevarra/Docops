@@ -1,5 +1,5 @@
 ---
-title: 2022-06-23T20:00:00+00:00
+title: 2022-06-23T20:00:00.000+00:00
 date: 06/24/2022 11:11 AM
 publishdate: 06/24/2022 11:11 AM
 lastmod: 06/24/2022 11:11 AM
@@ -10,9 +10,9 @@ categories:
 - news
 
 ---
-So hello there!   
+## So hello there!   
   
-This is the first post made by Forestry app - CMS like Netlify, which allows user to create content in git-based websites. 
+*This* is the first post made by Forestry app - CMS like Netlify, which allows user to create content in git-based websites. 
 
 I use Hugo, because it's simple and flexible. 
 
