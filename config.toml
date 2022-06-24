@@ -26,22 +26,19 @@ pygmentscodefences = true
       unsafe = true
 
 [[menu.primary]]
-    name = "Home"
-    url = "/"
+    name = "news"
+    url = "/news"
     weight = 1
 [[menu.primary]]
-    name = "About"
-    url = "/about/"
+    name = "glossary"
+    url = "/glossary/"
     weight = 2
 [[menu.primary]]
-    name = "GitHub"
-    url = "https://github.com/nanxstats"
+    name = "googletw"
+    url = "/googletw"
     weight = 3
 [[menu.primary]]
-    name = "Twitter"
-    url = "https://twitter.com/nanxstats"
+    name = "resources"
+    url = "/resources"
     weight = 4
-[[menu.primary]]
-    name = "Subscribe"
-    url = "/index.xml"
-    weight = 5
+
