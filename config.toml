@@ -1,4 +1,4 @@
-baseURL = "https://docops.neltify.com"
+baseURL = "https://docops.netlify.com"
 languageCode = "en-us"
 theme = "hugo-tanka-master"
 title = "Technical Writing Repo"
