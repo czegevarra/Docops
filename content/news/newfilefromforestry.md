@@ -1,16 +1,10 @@
----
-title: 11-12-11 title
-date: 2001-22-11
-publishdate: 2001-22-19
-lastmod: 2001-22-21
-tags:
-- test
-- page
-- docs
-categories:
-- tutorial
++++
+categories = ["test cat"]
+date = "date?"
+draft = true
+tags = ["test"]
 
----
++++
 ## So hello there!
 
 _This_ is the first post made by Forestry app - CMS like Netlify, which allows user to create content in git-based websites.
