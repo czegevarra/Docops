@@ -2,76 +2,22 @@ baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "hugo-tanka-master"
 title = "Technical Writing Repo"
-<<<<<<< HEAD
-author = "Nan Xiao"
+
 canonifyurls = true
 
 enableEmoji = true
-hasCJKLanguage = false
+hasCJKLanguage = true
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
-
-=======
-[markup]
-defaultMarkdownHandler = "goldmark"
-[markup.goldmark.extensions]
-definitionList = true
-footnote = true
-linkify = true
-strikethrough = true
-table = true
-taskList = true
-typographer = true
-[markup.goldmark.parser]
-attribute = true
-autoHeadingID = true
-[markup.goldmark.renderer]
-hardWraps = false
-unsafe = true
-xHTML = false
-[markup.highlight]
-codeFences = true
-hl_Lines = ""
-lineNoStart = 1
-lineNos = false
-lineNumbersInTable = true
-noClasses = true
-style = "monokai"
-tabWidth = 4
-[markup.tableOfContents]
-endLevel = 6
-startLevel = 2
-[[menu.nav]]
-name = "contacts"
-url = "/contacts/"
-weight = 5
-[[menu.nav]]
-name = "google tw"
-url = "/googletw/"
-weight = 4
-[[menu.nav]]
-name = "resources"
-url = "/resources"
-weight = 3
-[[menu.nav]]
-name = "glossary"
-url = "/glossary/"
-weight = 2
-[[menu.nav]]
-name = "news"
-url = "/news/"
-weight = 1
->>>>>>> e8e7d8a7f339d51bc247a07bcaba13253ee24435
 [params]
-  sitename = "Hugo Tanka Theme"
+  sitename = "Technical Writing Repo"
   faviconfile = "images/favicon.png"
   highlightjs = true
   highlightjslanguages = ["r", "python", "stan"]
   uselatex = true
-  progressively = false
+  progressively = true
 # commentsrepo = "user/repo"
 
 [markup]
@@ -99,4 +45,3 @@ weight = 1
     name = "Subscribe"
     url = "/index.xml"
     weight = 5
-
