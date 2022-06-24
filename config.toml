@@ -32,10 +32,6 @@ tabWidth = 4
 endLevel = 6
 startLevel = 2
 [[menu.nav]]
-name = "forestry"
-url = "yandex.ru"
-weight = 6
-[[menu.nav]]
 name = "contacts"
 url = "/contacts/"
 weight = 5
