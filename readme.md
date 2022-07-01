@@ -6,26 +6,26 @@
 
 # Оглавление:
 - [Оглавление:](#оглавление)
-  - [Полезные ресуры](#полезные-ресуры)
-    - [Каналы в Telegram](#каналы-в-telegram)
-    - [Книги](#книги)
-  - [Глоссарий](#глоссарий)
-    - [Сущности](#сущности)
-    - [Действия](#действия)
-    - [Слова, обороты](#слова-обороты)
-  - [Как начать предложение:](#как-начать-предложение)
-  - [Запятые](#запятые)
-  - [Предлоги](#предлоги)
-    - [On](#on)
-    - [A/The](#athe)
-  - [Множественные артикли](#множественные-артикли)
-  - [Активный залог](#активный-залог)
-  - [Примеры](#примеры)
-  - [Разное](#разное)
-  - [Google Правила](#google-правила)
-    - [Reffering to a file](#reffering-to-a-file)
-    - [Which or that](#which-or-that)
-    - [Вопросы](#вопросы)
+ |[Полезные ресуры](#полезные-ресуры)
+   |[Каналы в Telegram](#каналы-в-telegram)
+   |[Книги](#книги)
+ |[Глоссарий](#глоссарий)
+   |[Сущности](#сущности)
+   |[Действия](#действия)
+   |[Слова, обороты](#слова-обороты)
+ |[Как начать предложение:](#как-начать-предложение)
+ |[Запятые](#запятые)
+ |[Предлоги](#предлоги)
+   |[On](#on)
+   |[A/The](#athe)
+ |[Множественные артикли](#множественные-артикли)
+ |[Активный залог](#активный-залог)
+ |[Примеры](#примеры)
+ |[Разное](#разное)
+ |[Google Правила](#google-правила)
+   |[Reffering to a file](#reffering-to-a-file)
+   |[Which or that](#which-or-that)
+   |[Вопросы](#вопросы)
 
 ## Полезные ресуры
 
@@ -71,19 +71,25 @@
 
 |Слово|Перевод|
 |-----|-------|
-|ability|способность|
+|ability|mental skill / capability|practical skill|
 |absetneeism|невыход на работу|
 |accessible|доступный|
+|accompanied|в сопровождении|
 |accomplished|удавшийся|
+|align with|согласовать|
 |alter or enhance|изменить/улучшить|
 |although|не смотря на/хотя|
 |ambiguous|двусмысленный|
+|antiquated|устаревший|
 |approach|подход|
 |appropriate|подходящий|
+|assumptions|предположения|
+|awareness |обеспокоенность|
 |bottleneck|бутылочное горлышко|
 |brandwidth|пропускная способность|
 |bribery|взяточничество|
 |BYOD|bring your own device|
+|circle back|вернуться к чему-то позже|
 |clarity|ясность|
 |code of conduct|нормы поведения|
 |collaborate|сотрудничество|
@@ -96,41 +102,58 @@
 |concern|беспокойство|
 |concider|считать|
 |concurrency|совпадение, согласие|
-|conduct|руководить|
+|conduct|руководить, проводить|
+|considered|считается|
 |constitutes|составляет|
 |contain, display|содержит|  
 |contrains/restrictions|ограничения|
 |convey|передавать, сообщать|
+|convinced|убежденный|
 |corresponding|соответствующий|
 |critical|критический|
 |customer-facing doc|адресованная пользователю дока|
 |DDS|design document specifications|
 |define|определить|
+|delve|копаться|
 |demotion|понижение в должности|
+|deprecate|осуждать, устаревать|
 |determine|определять|
 |deviation|отклонение|  
 |disclosure policy|политика раскрытия информации
 |distinguish|выделить/различать| 
+|distraction|отвлечение, рассеянность|
 |draw a line under a sprint|подвести итоги спринта|  
+|efficacy|эффективность|
+|eliminating|устранение|
+|embrace|поддерживать, охватывать, принимать|
 |enabled/turned on|включен| 
 |engagement|встреча, общение|
 |engaging|вовлеченный/интересный|  
 |engineering-adjacent|прилегающий к ...|
 |enhance|улучшить|  
 |ensure|гарантировать|
+|error-prone|подверженный ошибкам|
 |essential|необходимый/незаменимый|  
 |estimate|оценивать|  
 |explicitly|явно|
 |exposed|незащищенный|
 |extensively|широко/экстенсивно|  
+|fallout|падение, снижение|
 |feasibility|осуществимость|  
 |fiy|for your information|  
+|flaws|недостатки|
 |for simplicity's sake|для простоты|    
 |for sure|наверняка|
+|get rid of|избавиться|
+|grilled me|докучал чем-то|
 |hassle|хлопоты|  
+|have impact|иметь влияние|
 |hesitate|колебаться|  
+|hindrance|помеха|
 |hoarded|накопленный|  
 |however|однако|    
+|implicitly|неявно|
+|in addition|вдобавок|
 |incentive|стимул|  
 |instantly|немедленно|  
 |integrity|честность|  
@@ -138,33 +161,41 @@
 |interacting|взаимодействие|  
 |introduction|вступление|  
 |introspection|самопроверка|
+|knowingly|сознательно|
 |labor|труд, работа|
 |lets you/enables you to (Не allows)|позволяет|  
 |likelihood|вероятность|
 |likewise|также|  
 |maintain|поддерживать|    
 |maintance|обслуживание|   
+|make sense|имеет смысл|
+|meanest|подлый|
 |merit|цена|  
+|mimicking |подражая, копируя|
 |minutest|мельчайший|  
 |mostly|в основном|
-|Namely|а именно|
+|namely|а именно|
 |next to/ opposite|рядом с| 
 |obtain|получать|
 |occur|происходить|  
 |on their own|сами по себе|  
+|on-premises|локально|
 |once this is done, you can...|как только это закончится, вы можете...|
+|originate|возникать, происходить|
 |otherwise|в противном случае|  
 |outbound|исходящий|
 |outdate|устаревший
-|SSO|single sign-on|
 |overall|в целом/along/вместе|  
+|overlooked|упущенный из виду, пропущенный|
+|pace|темп|
 |parentheses|скобки|  
 |participation|участие|
 |performs|выполняется <кем-то>|  
 |perhaps|возможно|
 |postpone|откладывать|
 |premises|помещения|  
-|prerequisites|предпосылки|  
+|prerequisites|предустановки, предпосылки|
+|preserved|сохраненный|
 |proficiency|умение|  
 |pronouns|местоимения|  
 |proposed|предложенный|  
@@ -176,21 +207,26 @@
 |refers to|относится к|   
 |reimbursment|возмещение, компенсация|
 |reliance|доверие|  
+|remain|оставаться|
 |remainder|остаток (?)|  
 |remediation suggestions|предложения по исправлению|  
+|repeatedly|неоднократно|
 |respectively |соответственно|
 |responsibility|обязанность|  
 |retaliation|возмездие|  
 |retrieval|возвращение, восстановление|
 |revise|пересмотреть|  
 |robustness|прочность|  
-|sagnificant|значительный|  
-|sagnificant|существенный| 
+|sagnificant|значительный, существенный| 
 |several/multiple|несколько| 
+|severe consequences|сложные последствия|
 |smooth|гладко, без проблем|
 |so far so good|пока все ок, ...|
 |solely|исключительно|
+|sparsingly|редко|
 |specific|определенный| 
+|squished|сжатый, соединенный|
+|SSO|single sign-on|
 |stay in loop|быть в курсе, держать контакт насчет чего-либо|  
 |strive|стремиться|
 |subset|подмножество|  
@@ -198,28 +234,44 @@
 |survey|опрос|
 |suspect|подозревать|  
 |suspension|приостановка|  
+|swamp|затянутый|
 |tailored|с учетом, адаптировано для ..|
+|take an average of|займет в среднем|
 |tangible|материальный, осязаемый|  
 |tardiness|опоздание|  
+|tedious|скучный|
 |tempered|закаленный|  
 |that said|тем не менее|  
+|the guts|внутрянка, кишки|
+|this poses an issue|это создает/влечет проблему|
+|thoroughly|тщательно|
 |though|несмотря на, хотя|  
+|threat actors|субъекты угрозы|
+|threshold |порог|
+|time-consuming|кропотливый|
+|to assume|предполагать|
 |to ease|облегчать|  
+|to effort|попытаться, сделать усилие| 
 |to have a few things in place|сделать/закончить что-либо|
 |to heap|наваливать, нагружать|  
 |to list|показывать в списке|  
 |to pledge|закладывать|  
+|to put aside|отставить в сторону, отложить|
+|to set out|решить|
 |to shape|сформировать|  
 |to state|закрепить, установить|    
+|to sum up|подведя итог, в сумме|
 |topics|темы|  
 |UAT|user testing interface|  
+|unaffordable|непозволительный|
 |unify|унифицировать|
 |using|с помощью|  
 |utmost|крайний|  
 |variables|переменные|
+|weaved|сотканный, собранный|
 |where it's relevant|где это необходимо|  
 |within|в пределах|
-
+|wrapping|упаковка, обертка|
 
 ### Сущности
 |Слово|Перевод|
@@ -322,7 +374,7 @@
 
 * Перед Depending не ставим, если информация важная:  
 ```The points turn purple or red__depending on the calculation result.```
-* Запятая перед and: как в русском языке - ставим если присоединяет самостоятельное, если and повторяется два и более раз в перечислении: 
+* Запятая перед and: как в русском языке|ставим если присоединяет самостоятельное, если and повторяется два и более раз в перечислении: 
 ```Specify a name and description, and then choose a type of the property.```
 
 ## Предлоги
